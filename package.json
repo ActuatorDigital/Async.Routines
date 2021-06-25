@@ -1,0 +1,14 @@
+{
+  "name": "com.air.async.routines",
+  "displayName": "AIR Async Routines",
+  "version": "0.0.1",
+  "description": "Handles the async scheduling and completion of Unity Coroutines according to AIR Async.",
+  "type": "library",
+  "repository": {
+    "url": "https://github.com/AnImaginedReality/Async.Routines"
+  },
+  "author": {
+    "name": "An Imagined Reality",
+    "url": "https://animaginedreality.com/"
+  }
+}
